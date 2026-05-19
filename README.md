@@ -232,7 +232,7 @@ customer_behaviour.pbix
 
 ## Author
 
-**Yashwanth P.S**  
+**Yaswanth P.S**  
 Data Analytics & Data Science Student
 
 ---
